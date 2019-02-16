@@ -1,0 +1,8 @@
+autoEnabled=true
+eclipse.preferences.version=1
+extraProperties=sonar.host.url\=http\://localhost\:9000\r\nsonar.projectKey\=SLMT\r\nsonar.sources\=C\:\\BG\\ws\\HelloSonar
+fileExclusions=
+idePrefixKey=
+projectKey=SLMT
+serverId=localhost
+sqPrefixKey=
